@@ -11,3 +11,4 @@
 .pydevproject
 __pycache__
 .vscode
+/members/.ropeproject/config.py
